@@ -1144,3 +1144,58 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.03-23.08.58:255][400]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
 [2020.02.03-23.08.58:755][400]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
 [2020.02.03-23.08.59:256][400]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.03-23.08.59:757][400]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.03-23.09.00:257][400]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.03-23.09.00:759][400]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.03-23.09.01:261][400]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.03-23.09.01:762][400]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.03-23.09.02:263][400]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.03-23.09.02:764][400]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.03-23.09.03:265][400]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.03-23.09.03:765][400]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.03-23.09.04:266][400]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.03-23.09.04:766][400]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.02.03-23.09.05:267][400]LogHttp: Warning: 000001D9DC1A7B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEA808416-4E2B-025D-C7DA-9BBAE57563A2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=94d9600e4b395bc43e159398bffc14fe%7C5b9edd2dcb604f6fb5a7d9a301fd1eda%7C7bf0ed09-dbfd-479c-9d29-cd1bccb1cfee&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.02.03-23.09.05:267][400]LogHttp: Warning: 000001D9DC1A7B00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.02.03-23.09.05:267][400]LogHttp: Warning: 000001D9DC1A7B00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1d976db7f70 [can pipeline])
+[2020.02.03-23.09.05:267][400]LogHttp: Warning: 000001D9DC1A7B00: libcurl info message cache 1 (Re-using existing connection! (#8) with host datarouter.ol.epicgames.com)
+[2020.02.03-23.09.05:267][400]LogHttp: Warning: 000001D9DC1A7B00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.193.111.27) port 443 (#8))
+[2020.02.03-23.09.05:267][400]LogHttp: Warning: 000001D9DC1A7B00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.02.03-23.09.05:267][400]LogHttp: Warning: 000001D9DC1A7B00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.02.03-23.09.05:267][400]LogHttp: Warning: 000001D9DC1A7B00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.02.03-23.09.05:267][400]LogHttp: Warning: 000001D9DC1A7B00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.02.03-23.09.05:267][400]LogHttp: Warning: 000001D9DC1A7B00: libcurl info message cache 7 (Closing connection 8)
+[2020.02.03-23.09.05:280][400]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2020.02.03-23.09.05:281][400]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2020.02.03-23.09.05:283][400]LogModuleManager: Shutting down and abandoning module Media (57)
+[2020.02.03-23.09.05:283][400]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2020.02.03-23.09.05:283][400]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.02.03-23.09.05:283][400]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.02.03-23.09.05:284][400]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.02.03-23.09.05:284][400]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.02.03-23.09.05:284][400]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.02.03-23.09.05:284][400]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.02.03-23.09.05:284][400]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.02.03-23.09.05:284][400]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.02.03-23.09.05:284][400]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.02.03-23.09.05:284][400]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.02.03-23.09.05:284][400]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.02.03-23.09.05:284][400]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.02.03-23.09.05:284][400]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.02.03-23.09.05:284][400]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.02.03-23.09.05:288][400]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.02.03-23.09.05:288][400]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.02.03-23.09.05:288][400]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.02.03-23.09.05:288][400]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.02.03-23.09.05:288][400]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.02.03-23.09.05:288][400]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.02.03-23.09.05:288][400]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.02.03-23.09.05:288][400]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.02.03-23.09.05:288][400]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.02.03-23.09.05:288][400]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.02.03-23.09.05:288][400]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.02.03-23.09.05:288][400]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.02.03-23.09.05:291][400]LogD3D11RHI: Shutdown
+[2020.02.03-23.09.05:291][400]LogD3D11RHI: CleanupD3DDevice
+[2020.02.03-23.09.05:301][400]LogExit: Exiting.
+[2020.02.03-23.09.05:311][400]Log file closed, 02/03/20 15:09:05
