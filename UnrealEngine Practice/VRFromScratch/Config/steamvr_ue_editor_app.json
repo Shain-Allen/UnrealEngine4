@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.vrfromscratch-11100242.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "C:/Users/shain.allen.DIGIPEN.EDU/Desktop/UnrealEngine4/UnrealEngine Practice/VRFromScratch/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "VRFromScratch-11100242 [UE Editor]"
+				}
+			}
+		}
+	]
+}
