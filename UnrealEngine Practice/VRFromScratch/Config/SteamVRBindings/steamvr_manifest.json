@@ -86,8 +86,16 @@
 			"type": "boolean"
 		},
 		{
-			"name": "/actions/main/in/MotionControllerLeft_MoveX axis",
-			"type": "vector1"
+			"name": "/actions/main/in/TriggerPull",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/Grab",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d",
+			"type": "vector2"
 		}
 	],
 	"action_sets": [
@@ -162,7 +170,9 @@
 			"/actions/main/out/vibrateright": "Haptic (Right)",
 			"/actions/main/in/MotionControllerRight_RotateLeft": "MotionControllerRight_RotateLeft",
 			"/actions/main/in/MotionControllerRight_RotateRight": "MotionControllerRight_RotateRight",
-			"/actions/main/in/MotionControllerLeft_MoveX axis": "MotionControllerLeft_MoveX",
+			"/actions/main/in/TriggerPull": "TriggerPull",
+			"/actions/main/in/Grab": "Grab",
+			"/actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d": "MotionControllerThumbLeft",
 			"/actions/main": "Main Game Actions"
 		}
 	]
